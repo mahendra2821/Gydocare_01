@@ -1,11 +1,11 @@
 import React from "react";
 
 const pricingData = [
-  { service: "General Consultation", price: "$50", description: "Basic health checkup and consultation." },
-  { service: "Dental Cleaning", price: "$75", description: "Professional dental cleaning and polishing." },
-  { service: "X-Ray Services", price: "$100", description: "High-quality X-Ray imaging for diagnosis." },
-  { service: "Vaccination Package", price: "$120", description: "Includes basic vaccinations for children." },
-  { service: "Surgery Consultation", price: "$150", description: "Specialist consultation for surgeries." },
+  { service: "General Consultation", price: "Rs- 550/-", description: "Basic health checkup and consultation." },
+  { service: "Dental Cleaning", price: "Rs 1200/-", description: "Professional dental cleaning and polishing." },
+  { service: "X-Ray Services", price: "Rs 2500/-", description: "High-quality X-Ray imaging for diagnosis." },
+  { service: "Vaccination Package", price: "Rs 250/-", description: "Includes basic vaccinations for children." },
+  { service: "Surgery Consultation", price: "Rs 700/-", description: "Specialist consultation for surgeries." },
 ];
 
 const Pricing = () => {

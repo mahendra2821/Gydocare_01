@@ -9,6 +9,7 @@ import Offers from "./components/Offers";
 import Pricing from "./components/Pricing";
 import Client from "./components/Clients";
 import Footer from "./components/Footer";
+import Map from "./components/Map";
 // import About from "./components/About";
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Pricing/>
       {/* <About/> */}
       <Client/>
+      <Map/>
       <Footer/>
     </>
 

@@ -15,11 +15,10 @@ const Header = () => {
         {/* Hospital Name and Logo */}
         <div className="flex items-center">
           <img
-            src="https://img.freepik.com/premium-vector/medical-cross-symbol-medical-health-sign_267160-487.jpg?w=740"
+            src="https://media-hosting.imagekit.io//15a1fc4a4ef6463a/WhatsApp%20Image%202025-02-24%20at%2022.51.48_3d04d85e.jpg?Expires=1835025748&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=xgegTioo8i~h9Ni9uRi-v-huGCzq~-VC6M8DocS0PegFXUkpMo0m9-bKqmQcgulJTcMSPFcS9hIrE5PvKvcVgITBNRq037QUor2mpum3NjxWOsnB6VjqaEZdfTchGEFEvcjSejwyDRmLImZpVOoz1xO-cE1~IZDZ83nJRchxaiz1Ov1S0Mqj~~i1pvldpMF8cJXjozNqxnegXPzkQ1Gk9NxUZ2UyCeIC5Q-isdMC~7ek-wJIc50TIBy~ZD8ZAvvWhjx5SIphgtwXA0sdL48XocyL5-UpuWOx48rHMpnH1sLp-rXh7K4fhxh3OH-2Cp0JqmRF8bQgw0GosVGOyRkwBw__"
             alt="Logo"
-            className="w-20 h-12 mr-2"
+            className="w-[10vw] h-[10vh] mr-2 rounded-2xl"
           />
-          <h1 className="text-xl font-bold">GYDOCARE</h1>
         </div>
 
         {/* Desktop Navigation */}

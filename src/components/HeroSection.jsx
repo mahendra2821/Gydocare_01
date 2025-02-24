@@ -17,7 +17,7 @@ const HeroSection = () => {
           Excellence in Healthcare
         </h1>
         <p className="text-lg md:text-xl mb-6">
-          Committed to providing the best medical care for you and your family.
+          Committed to providing the best medical care for you and Nearest Location While Travelling Time.
         </p>
 
         <div className="flex justify-center space-x-4">
